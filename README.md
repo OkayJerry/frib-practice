@@ -1,4 +1,4 @@
-# FRIB-Practice
+# FRIB Practice
 Practice projects for the **Facility for Rare Isotope Beams** at MSU.
 
 ## Model 1
